@@ -6,6 +6,7 @@
 //汽车人
 function qicheren(){
 	q=汽车人-1代
+	q=汽车人-2代
 	
 	return q
 }
@@ -13,7 +14,7 @@ function qicheren(){
 //霸天虎
 function batianhua(){
 	b=霸天虎-1代
-	b=霸天虎-2代
+	
 	return b
 }
 
